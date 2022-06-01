@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, docker and SQL**
 
-- 💬 Ask me about **Frontend, react/tailwind**
-
-- 📫 How to reach me **vitorme.vm@gmail.com**
-
-- ⚡ Fun fact **I like to sculpt on my free time.**
+- 📫 Reach me **vitorme.vm@gmail.com**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vitormemoria/ </h3>
 <p align="left">
