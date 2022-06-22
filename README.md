@@ -3,7 +3,7 @@
 <h1 align="center">I'm Vitor Torquato Memoria</h1>
 <h3 align="center">A web developer studant from Fortaleza - Brazil</h3>
 
-- 🌱 I’m currently learning **Backend, docker and SQL**
+- 🌱 I’m currently learning **Backend, Node.js/Express, Docker and MySQL**
 
 - 📫 Reach me **vitorme.vm@gmail.com**
 
