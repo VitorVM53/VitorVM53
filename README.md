@@ -3,7 +3,7 @@
 <h1 align="center">I'm Vitor Torquato Memoria</h1>
 <h3 align="center">A web developer studant from Fortaleza - Brazil</h3>
 
-- 🌱 I’m currently learning **Computer Science - Python**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 Reach me **vitorme.vm@gmail.com**
 
