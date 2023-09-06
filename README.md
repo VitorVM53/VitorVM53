@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Vitor Torquato Memoria</h1>
-<h3 align="center">A web developer studant from Fortaleza - Brazil</h3>
+<h3 align="center">A web developer student from Fortaleza - Brazil</h3>
 
 - 🌱 I’m currently learning **Computer Science**
 
