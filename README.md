@@ -3,7 +3,7 @@
 <h1 align="center">I'm Vitor Torquato Memoria</h1>
 <h3 align="center">A web developer student from Fortaleza - Brazil</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 👨‍🎓 Graduated in Business Administration and currently studying Systems Analysis and Development, working as a Full Stack Developer.
 
 - 📫 Reach me **vitorme.vm@gmail.com**
 
