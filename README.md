@@ -3,7 +3,7 @@
 <h1 align="center">I'm Vitor Torquato Memoria</h1>
 <h3 align="center">A web developer from Fortaleza - Brazil</h3>
 
-- 👨‍🎓 Graduated in Business Administration and Systems Analysis and Development.
+- 👨‍🎓 Graduated in Business Administration and Systems Analysis Development.
 
 - 👷 working as a Full Stack Developer.
 
